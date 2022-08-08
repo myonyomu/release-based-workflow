@@ -31,6 +31,7 @@ GitHub releases allow your team to package and provide software to your users ba
 
 <!--Step 1-->
 <details id=1 >
+
 <summary><h2>Step 1: Create a beta release</h2></summary>
 
 ### The GitHub flow
